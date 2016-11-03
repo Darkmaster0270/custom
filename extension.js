@@ -1,7 +1,7 @@
 (function () {
 
     // Change this to your GitHub username so you don't have to modify so many things.
-    var fork = "basicBot";
+    var fork = "Darkmaster0270";
 
     // Define our function responsible for extending the bot.
     function extend() {
@@ -54,7 +54,7 @@
       startupCap: 1, // 1-200
       startupVolume: 0, // 0-100
       startupEmoji: false, // true or false
-      autowoot: true,
+      autowoot: false,
       autoskip: false,
       smartSkip: true,
       cmdDeletion: true,
